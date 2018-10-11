@@ -2,7 +2,8 @@
   "name": "app-testing",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://gitname.github.io/react-gh-pages",
+  "homepage": "https://roybarak80.github.io/app-testing",
+  
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.5.2",
