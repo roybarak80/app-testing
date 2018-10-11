@@ -2,7 +2,7 @@
   "name": "app-testing",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://roybarak80.github.io/app-testing",
+  "homepage": "https://roybarak80.github.io/app-testing/",
   
   "dependencies": {
     "gh-pages": "^2.0.1",
